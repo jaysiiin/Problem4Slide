@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Problem4Slide\Problem4Slide\bin\Debug\Problem4Slide.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Problem4Slide\Problem4Slide\obj\Debug\Problem4Slide.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Problem4Slide\Problem4Slide\bin\Debug\Problem4Slide.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Problem4Slide\Problem4Slide\bin\Debug\Problem4Slide.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Problem4Slide\Problem4Slide\obj\Debug\Problem4Slide.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Problem4Slide\Problem4Slide\obj\Debug\Problem4Slide.pdb
